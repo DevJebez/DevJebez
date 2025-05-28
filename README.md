@@ -1,6 +1,6 @@
 # Hi, I'm Jebez Oswald
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0C8AFF&center=false&vCenter=true&width=800&lines=Machine+Learning+%7C+NLP+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=false&vCenter=true&width=800&lines=Machine+Learning+%7C+NLP+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
 
 Aspiring AI & ML Engineer | Data Analyst | Chennai, India
 
