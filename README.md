@@ -51,11 +51,11 @@ I'm a student passionate about developing cutting-edge solutions across various 
 
 ## GitHub Stats
 
-![Jebez's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJebez&show_icons=true&theme=default)
+![Jebez's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJebez&show_icons=true&theme=chartreuse-dark)
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJebez&theme=default)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJebez&theme=merko)
 
 ---
 
