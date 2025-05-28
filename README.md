@@ -53,6 +53,10 @@ I'm a student passionate about developing cutting-edge solutions across various 
 
 ![Jebez's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJebez&show_icons=true&theme=default)
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJebez&theme=default)
+
 ---
 
 ## Connect with Me
